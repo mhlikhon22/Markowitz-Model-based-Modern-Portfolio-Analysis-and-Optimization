@@ -3,13 +3,13 @@
 This project focuses on analyzing, optimizing, &amp; observing an investment portfolio consisting of around ten DS30 stocks. The core objective is to assess historical performance and determine the optimal allocation to maximize returns while managing required risk-return. This analysis is based on data from 15 January 2023 to 12 January 2025.
 
 The project is divided into the following components:
-### 1.	Data Collection (Data Set Sheet):
+### 1.	Data Collection
 Historical closing prices of multiple stocks (e.g., BSCCL, KBPPWBIL, SQURPHARMA, etc.) were collected.
-### 2.	Statistical Analysis (Statistics Sheet):
+### 2.	Statistical Analysis
 Key metrics such as annual returns, risk measures, and weights are calculated for each instrument.
-### 3.	Portfolio Optimization (Optimal Portfolio Sheet):
+### 3.	Portfolio Optimization
 Using the computed statistics, the optimal portfolio is constructed by determining the ideal weight allocation for each instrument. The optimization aims to maximize expected returns while minimizing risk. Details like the number of shares, amount invested, and price per share are included.
-### 4.	Observations and Insights (Observation Sheet):
+### 4.	Observations and Insights
 The final sheet presents observations including unrealized gains, realized gains, market prices, total costs, and weight of each asset in the portfolio.
 
 ## Portfolio Performance Summary
