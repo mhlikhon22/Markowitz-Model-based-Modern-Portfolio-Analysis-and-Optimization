@@ -1,0 +1,2 @@
+# Markowitz-Model-based-Modern-Portfolio-Analysis-and-Optimization
+This project focuses on analyzing, optimizing, &amp; observing an investment portfolio consisting of around ten DS30 stocks. The core objective is to assess historical performance and determine the optimal allocation to maximize returns while managing required risk-return. This analysis is based on data from 15 January 2023 to 12 January 2025.
